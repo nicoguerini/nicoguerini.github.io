@@ -1,8 +1,4 @@
-.paragraph{
-  font-size: 50px;
-  line-height: 62px;
-  font-family: 'ZCOOL KuaiLe', cursive;
-}
+
 h1 {
   color: rgb(100, 100, 100);
   /*rgb 0-255 value*/
@@ -14,7 +10,8 @@ body {
 }
 
 p {
-  color: #000000;
-  /*hex*/
+  font-size: 50px;
+  line-height: 62px;
+  font-family: 'ZCOOL KuaiLe', cursive;
 }
 
