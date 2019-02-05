@@ -1,10 +1,11 @@
+
 h1 {
-  color: rgb(100, 100, 255);
+  color: rgb(100, 100, 100);
   /*rgb 0-255 value*/
 }
 
 body {
-  background-color: orange;
+  background-color: blue;
   /*name*/
 }
 
@@ -12,19 +13,8 @@ p {
   color: #000000;
   /*hex*/
 }
-
-.fancy {
-  color: white;
-  font-family: 'Gloria Hallelujah', cursive;
-}
-
-#circle {
-  width: 100px;
-  height: 100px;
-  background: rgba(255, 0, 0, .5);
-  border-radius: 50%;
-}
-
-#circle:hover {
-  background: rgba(255, 255, 0, .5);
+.paragraph{
+  font-size: 50px;
+  line-height: 62px;
+  font-family: 'ZCOOL KuaiLe', cursive;
 }
